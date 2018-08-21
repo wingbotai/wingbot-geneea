@@ -1,6 +1,11 @@
 # Geneea Intent API integration for Wingbot
 
 Use the Geneea NLP in wingbot chatbot
+## Installing
+
+```
+npm i -S wingbot-geneea
+```
 
 ## Usage
 
